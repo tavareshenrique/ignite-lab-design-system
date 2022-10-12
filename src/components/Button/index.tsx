@@ -9,7 +9,6 @@ export interface ButtonProps {
   asChild?: boolean;
 }
 
-
 export function Button({ children, asChild = false }: ButtonProps) {
   const Component = asChild ? Slot : 'button'
 
