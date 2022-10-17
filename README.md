@@ -17,7 +17,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-3db855">
 </p>
 
-> O Ignite Lab Design System é um projeto da Rocketseat onde construimos uma aplicação de Design System utilizando: React, TypeScript Vite, Tailwind e Storybook. 🚀 💜
+> O Ignite Lab Design System é um projeto da Rocketseat onde construimos uma aplicação de Design System utilizando: React, TypeScript, Vite, Tailwind e Storybook. 🚀 💜
 
 # :pushpin: Conteúdo
 
@@ -39,7 +39,7 @@
 
 # :computer: Tecnologias
 
-This project was made using the follow technologies:
+Este projeto foi feito utilizando as seguintes tecnologias:
 
 * [React](https://reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
